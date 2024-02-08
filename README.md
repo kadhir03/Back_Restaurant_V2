@@ -1,7 +1,7 @@
 # Back_Restaurant_V2
 Backend RESTful para restaurante con Node.js, PostgreSQL, Docker. Implementa JWT para autenticación. MVC con Sequelize ORM. Desarrollo eficiente y escalable.
 
-Backend para Restaurante
+Backend para Restaurante:
 Este repositorio contiene el código fuente para el backend de un restaurante, desarrollado con Node.js y PostgreSQL. El backend proporciona una API RESTful para gestionar pedidos, menús, usuarios y más, utilizando el patrón MVC (Modelo-Vista-Controlador).
 
 Tecnologías Utilizadas:
